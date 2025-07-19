@@ -44,15 +44,6 @@ Then visit http://localhost:8000 in your browser.
 - CSS3 – custom properties, transitions, media queries
 - Vanilla JavaScript
 
-## 📁 File Structure
-
-dark-mode-toggle/
-├── index.html
-├── style.css
-├── script.js
-├── preview.gif
-└── README.md
-
 ## 💡 What I Learned
 
 - How to implement theme switching with CSS custom properties
