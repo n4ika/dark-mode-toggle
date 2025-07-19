@@ -1,9 +1,9 @@
 # 🌗 Dark Mode Toggle
 
+[![View Live](https://img.shields.io/badge/View%20Live-🌐%20n4ika.github.io%2Fdark--mode--toggle-0e76a8?style=for-the-badge)](https://n4ika.github.io/dark-mode-toggle)
+
 A simple, accessible dark mode toggle built with HTML, CSS, and JavaScript.  
 Supports system preferences, remembers user settings via `localStorage`, and uses smooth visual transitions.
-
-🔗 **[Live Demo](https://n4ika.github.io/dark-mode-toggle)**
 
 ![Dark mode toggle demo](./preview.gif)
 
