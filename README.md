@@ -33,10 +33,6 @@ Supports system preferences, remembers user settings via `localStorage`, and use
 
 2. Open index.html in your browser.
 
-Or, if you have Python 3 installed:
-
-python3 -m http.server 8000
-Then visit http://localhost:8000 in your browser.
 
 ## 🛠️ Tech Stack
 
